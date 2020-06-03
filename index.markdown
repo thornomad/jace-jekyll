@@ -5,9 +5,14 @@
 layout: home
 ---
 
-## Welcome My Website!
+## Welcome My Website!!!
 
-Please subscribe to my Channel in YouTube. 
-[Here the link for subscribe] [subscribe] 
+Hi, My name is Jace. I hope you enjoy the videos with ASL also please subscribe to my channel bottom. 
+This is my first time by setting up my webpage, FYI.
 
-[subscribe]:https://www.youtube.com/channel/UCT4txpX7XJF31kt5Y5fQkuQ?view_as=subscriber
+If you want to know how sign like ASL, [please click the link to know how to sign.] [click]
+
+---
+
+# Jace's Posts
+[click]:https://www.signingsavvy.com/
