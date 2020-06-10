@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Letter"
+categories: youtube
+---
+
+> Just let you know, this letter is for my grandparents so... some sentence is talking about grandparents. 
+
+To Nana & Grandpa,
+
+Today, I will explain about a cool robot called Micro:Bit. I will tell you what Micro:Bit looks like, what Micro:Bit can feel, and some more information about Micro:Bit. In my opinion, I suggest you to buy Micro:Bit because it will help your life like it did help mine.
+
+First, Micro:Bit is pretty small and light. Also, Micro:Bit has twenty-five dots of red lights and two buttons on the front. There are five holes in the bottom that can be used for music! Micro:Bit has tiny and gold electric bumps on it. Micro:Bit needs a battery to run.
+
+Second, Micro:Bit can sense many different things. Micro:Bit can sense the door closed and open. Micro:Bit can count seconds by itself. Micro:Bit can feel the temperature inside and outside. Micro:Bit can even count the steps too! You may wonder how Micro:Bit can feel the door close and open. Micro:Bit can feel the magnet. So, the magnet needs to be put on the top of the door, and the Micro:Bit needs to be put on the wall to sync the magnet. That’s how the Micro:Bit can feel the door. 
+
+Third, the company, BBC, invented Micro:Bit. Micro:Bit is available to purchase online right now! Micro:Bit cost just $14.95-$18.00. Micro:Bit already has two batteries included in it, but you need to use a laptop to plug the Micro:Bit to transfer to your Micro:Bit to a laptop. Then, you can code it with your laptop!
+
+Why will your lives be better with Micro:Bit? Because it can tell you when the door is closed or open. It can tell you the temperature. That is why I keep on saying, “it makes your lives better!”. I think you should try coding Micro:Bit. Thank you for buying me Micro:Bit for my birthday! I really enjoy playing with Micro:Bit. 
+
+Do you want to get Micro:Bit? [Please click this sentence] [click]
+
+[click]: https://www.amazon.com/micro-bit-BBC2546862-Micro-go/dp/B01G8X7VM2/ref=sr_1_3?dchild=1&keywords=Micro%3ABit&qid=1591229201&sr=8-3
+
