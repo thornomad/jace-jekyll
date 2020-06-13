@@ -5,7 +5,7 @@
 layout: home
 ---
 
-## Welcome My Website!!!
+## Welcome To My Website!!!
 
 Hi, My name is Jace. I hope you enjoy my website!!! Also, please subscribe to my channel on the bottom. 
 This is my first time by setting up my webpage, FYI.
