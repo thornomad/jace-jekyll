@@ -4,4 +4,4 @@ title:  "Bobbi the president"
 categories: youtube
 ---
 
-My Grandma is right. We need Bobbi to stay. Because almost all man were president and Bobbi is a woman, you need to let them a time to be president. It doesn't mean you against women.
+My Grandma is right. We need Bobbi to stay. Because almost all man were president and Bobbi is a woman you need to give Bobbi time to be president. It doesn't mean you against women.
